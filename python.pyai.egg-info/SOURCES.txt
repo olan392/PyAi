@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+pyai/__init__.py
+pyai/core.py
+pyai/test.py
+python.pyai.egg-info/PKG-INFO
+python.pyai.egg-info/SOURCES.txt
+python.pyai.egg-info/dependency_links.txt
+python.pyai.egg-info/top_level.txt

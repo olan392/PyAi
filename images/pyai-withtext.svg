@@ -1,0 +1,30 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="360" viewBox="0 0 320 360">
+  <title>PyAI Logo</title>
+  <rect width="320" height="360" rx="28" fill="#FFFFFF"/>
+
+  <g transform="translate(60 30) scale(1.22)">
+    <rect width="164" height="164" rx="38" fill="#F0F6FC"/>
+
+    <path d="M35 35 H91 C111 35 123 47 123 67 V89 C123 108 111 120 91 120 H67 V139 H35 Z"
+          fill="#3776AB"/>
+    <path d="M67 65 H91 C96 65 99 69 99 75 V81 C99 87 96 90 91 90 H67 Z"
+          fill="#FFFFFF"/>
+    <circle cx="101" cy="49" r="6" fill="#FFD43B"/>
+
+    <path d="M129 129 H73 C53 129 41 117 41 97 V75 C41 56 53 44 73 44 H97 V25 H129 Z"
+          fill="#FFD43B"/>
+    <path d="M97 99 H73 C68 99 65 95 65 89 V83 C65 77 68 74 73 74 H97 Z"
+          fill="#3776AB"/>
+    <circle cx="63" cy="115" r="6" fill="#FFFFFF"/>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="800" text-anchor="middle" letter-spacing="-2">
+    <text x="160" y="280">
+      <tspan fill="#3776AB">Py</tspan><tspan fill="#FFD43B">AI</tspan>
+    </text>
+  </g>
+
+  <rect x="103" y="298" width="114" height="4" rx="2" fill="#3776AB" opacity="0.2"/>
+  <rect x="103" y="298" width="57" height="4" rx="2" fill="#FFD43B"/>
+</svg>
